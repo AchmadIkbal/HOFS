@@ -1,0 +1,4 @@
+2023-10-13T11:45:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\company1\wp-content\plugins\elementor\includes\base\controls-stack.php on line 869
+
+2023-10-13T18:07:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\company1\wp-content\themes\astra\template-parts\header\builder\header-row.php on line 8
+

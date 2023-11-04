@@ -1,0 +1,8 @@
+2023-11-03T10:46:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\company1\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 979
+
+2023-11-03T16:28:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\company1\wp-includes\Requests\src\Transport\Curl.php on line 510
+
+2023-11-03T16:29:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\company1\wp-includes\Requests\src\Transport\Curl.php on line 510
+
+2023-11-03T16:39:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\company1\wp-content\plugins\simply-static\src\class-ss-url-extractor.php on line 153
+

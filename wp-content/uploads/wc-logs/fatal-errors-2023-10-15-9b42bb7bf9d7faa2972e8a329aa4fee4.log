@@ -1,0 +1,10 @@
+2023-10-15T13:20:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\company1\wp-content\plugins\elementor\includes\elements\container.php on line 19
+
+2023-10-15T15:03:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\company1\wp-content\themes\astra\inc\dynamic-css\pagination.php on line 9
+
+2023-10-15T15:03:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\company1\wp-content\plugins\woocommerce\src\Admin\RemoteInboxNotifications\GetRuleProcessor.php on line 8
+
+2023-10-15T15:03:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\company1\wp-includes\class-wpdb.php on line 2459
+
+2023-10-15T15:11:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\company1\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 65
+
